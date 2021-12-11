@@ -1,5 +1,7 @@
 Estudiante de Ingeniería Industrial y Computación de la Uchile. 
+
 Correo: lucasmurrayh@gmail.com
+
 Celular: +56991999272
 
 <!---
